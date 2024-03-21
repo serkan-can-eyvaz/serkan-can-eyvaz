@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhaba. Ben Serkan , <br>veri bilimi alanında çalışan biriyim.<br>Veri analizi, makine öğrenimi ve yapay zeka konularında kendimi geliştiriyorum.<br>Çalışmalarım veri keşfi, modelleme ve büyük veri analizi gibi konuları ele almaktadır.<br>Ayrıca, yazılım mühendisliği alanında da çalışmalarda bulunuyorum.<br>İşbirliği ve görüşmeler için her zaman açık olduğumu belirtmek isterim.<br>Teşekkür ederim.🚀
+Merhaba. Ben Serkan , <br>Veri bilimi alanında çalışan biriyim.<br>Veri analizi, makine öğrenimi ve yapay zeka konularında kendimi geliştiriyorum.<br>Çalışmalarım veri keşfi, modelleme ve büyük veri analizi gibi konuları ele almaktadır.<br>Ayrıca, yazılım mühendisliği alanında da çalışmalarda bulunuyorum.<br>İşbirliği ve görüşmeler için her zaman açık olduğumu belirtmek isterim.<br>Teşekkür ederim.🚀
 
 
 ## 🌐 Socials:
