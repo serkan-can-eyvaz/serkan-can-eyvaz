@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhaba. Ben Serkan ,<br>Veri bilimi ve backend alanında kendimi geliştiriyorum.<br>Çalışmalarım  modelleme ve springboot gibi konuları ele almaktadır.<br>Ayrıca, yazılım mühendisliği alanında da çalışmalarda bulunuyorum.<br>İşbirliği ve görüşmeler için her zaman açık olduğumu belirtmek isterim.<br>Teşekkür ederim..🚀
+Merhaba. Ben Serkan ,<br>Veri bilimi ve backend alanında kendimi geliştiriyorum.<br>Çalışmalarım  modelleme ve springboot gibi konuları ele almaktadır.<br>Ayrıca, yazılım mühendisliği alanında da çalışmalarda bulunuyorum.<br>İşbirliği ve görüşmeler için her zaman açık olduğumu belirtmek isterim.<br>Teşekkür ederim...🚀
 
 
 ## 🌐 Socials:
