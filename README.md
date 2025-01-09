@@ -25,6 +25,14 @@ Merhaba. Ben Serkan ,<br>Back-end alanında kendimi geliştiriyorum.<br>Çalış
 ![](https://github-readme-streak-stats.herokuapp.com/?user=serkan-can-eyvaz&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=serkan-can-eyvaz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Baranll0/Baranll0/d14cfdcb3e3904396a564343c7f281facdc47b54/github-user-contribution%20(1).svg" />
+  
+  <br/><br/><br/>
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=serkan-can-eyvaz&v=1icon=0&color=0)](https://visitcount.itsvg.in)
 
