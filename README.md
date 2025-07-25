@@ -23,6 +23,11 @@ Merhaba. Ben Serkan ,<br>Back-end alanında kendimi geliştiriyorum.<br>Çalış
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=serkan-can-eyvaz&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=serkan-can-eyvaz&theme=radical&hide_border=false)<br/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkan-can-eyvaz&layout=compact&theme=cobalt" alt="serkan-can-eyvaz" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=serkan-can-eyvaz&show_icons=true&locale=en&theme=cobalt" alt="serkan-can-eyvaz" />
+  <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=serkan-can-eyvaz&count_private=true&theme=react&border_radius=10" alt="serkan-can-eyvaz" />
+</div>
 
 
 <div align="center">
