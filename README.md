@@ -27,6 +27,8 @@ Merhaba. Ben Serkan ,<br>Back-end alanında kendimi geliştiriyorum.<br>Çalış
   <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=serkan-can-eyvaz&count_private=true&theme=react&border_radius=10" alt="serkan-can-eyvaz" />
 </div>
 
+## 🐍 My Contributions 🐍
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/serkan-can-eyvaz/serkan-can-eyvaz/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
