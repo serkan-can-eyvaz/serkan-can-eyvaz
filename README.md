@@ -27,14 +27,10 @@ Merhaba. Ben Serkan ,<br>Back-end alanında kendimi geliştiriyorum.<br>Çalış
   <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=serkan-can-eyvaz&count_private=true&theme=react&border_radius=10" alt="serkan-can-eyvaz" />
 </div>
 
-
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Baranll0/Baranll0/d14cfdcb3e3904396a564343c7f281facdc47b54/github-user-contribution%20(1).svg" />
-  
-  <br/><br/><br/>
+  <img src="https://raw.githubusercontent.com/serkan-can-eyvaz/serkan-can-eyvaz/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=serkan-can-eyvaz&v=1icon=0&color=0)](https://visitcount.itsvg.in)
