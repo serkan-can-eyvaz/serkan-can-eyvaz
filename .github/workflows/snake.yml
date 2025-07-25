@@ -2,8 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Her gün çalışır
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -19,7 +22,7 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake.svg
 
-      - name: Push snake svg to the output branch
+      - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
