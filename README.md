@@ -1,7 +1,5 @@
 # 💫 About Me:
-Merhaba. Ben Serkan ,<br>Back-end alanında kendimi geliştiriyorum.<br>Çalışmalarım  modelleme ve springboot gibi konuları ele almaktadır.<br>Ayrıca yazılım mühendisliği alanında da çalışmalarda bulunuyorum.<br>İşbirliği ve görüşmeler için her zaman açık olduğumu belirtmek isterim.<br>Teşekkür ederim...🚀
-
-
+Merhaba. Ben Serkan ,<br>Back-end alanında kendimi geliştiriyorum.<br>Çalışmalarım  modelleme ve springboot gibi konuları ele almaktadır.<br>Ayrıca yazılım mühendisliği alanında da çalışmalarda bulunuyorum.<br>İşbirliği ve görüşmeler için her zaman açık olduğumu belirtmek isterim.<br>Teşekkür ederim ..🚀
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/serkancaneyvaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serkan-can-eyvaz-610987254) 
 
