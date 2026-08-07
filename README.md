@@ -5,7 +5,7 @@ Back-end geliştirme, mikroservis mimarisi ve AI entegrasyonları üzerine çal�
 🔹 Spring Boot ve .NET Core ile ölçeklenebilir backend sistemler geliştiriyorum<br>
 🔹 Microservices, CQRS, Redis, RabbitMQ gibi modern mimarilerle çalışıyorum<br>
 🔹 NLP, OCR ve Chatbot sistemleri gibi AI entegrasyonları geliştiriyorum<br>
-🔹 Docker, Jenkins ve CI/CD süreçlerinde aktif rol alıyorum<br><br>
+🔹 Docker, Jenkins ve CI/CD süreçlerinde aktif rol alıyorum <br><br>
 
 Gerçek dünya problemlerine sürdürülebilir ve performanslı çözümler üretmeye odaklanıyorum.<br>
 İşbirliği ve yeni fırsatlar için her zaman açığım 🤝
