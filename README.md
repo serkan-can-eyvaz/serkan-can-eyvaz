@@ -29,6 +29,7 @@ Gerçek dünya problemlerine sürdürülebilir ve performanslı çözümler üre
 
 ### 🧩 Architecture & Systems
 ![Microservices](https://img.shields.io/badge/Microservices-%23000000.svg?style=for-the-badge)
+![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven_Architecture-%236C63FF.svg?style=for-the-badge)
 ![CQRS](https://img.shields.io/badge/CQRS-%23ff9900.svg?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-%23007ACC.svg?style=for-the-badge)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
