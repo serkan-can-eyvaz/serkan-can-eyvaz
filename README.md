@@ -1,6 +1,6 @@
 # 💫 About Me:
 Merhaba, ben **Serkan Can Eyvaz** 🚀<br>
-Back-end geliştirme, mikroservis mimarisi ve AI entegrasyonları üzerine çalışan bir yazılım mühendisiyim.<br><br>
+Back-end geliştirme, mikroservis mimarisi ve AI entegrasyonları üzerine çalışan bir  yazılım mühendisiyim.<br><br>
 
 🔹 Spring Boot ve .NET Core ile ölçeklenebilir backend sistemler geliştiriyorum<br>
 🔹 Microservices, CQRS, Redis, RabbitMQ gibi modern mimarilerle çalışıyorum<br>
