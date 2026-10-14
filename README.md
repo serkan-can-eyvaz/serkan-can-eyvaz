@@ -88,7 +88,7 @@ Gerçek dünya problemlerine sürdürülebilir ve performanslı çözümler üre
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkan-can-eyvaz&layout=compact&theme=cobalt&hide_repo=vizecm,MakinaOgrenmeVize,CIFARNet" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkan-can-eyvaz&layout=compact&theme=cobalt&exclude_repo=vizecm,MakinaOgrenmeVize,CIFARNet" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=serkan-can-eyvaz&show_icons=true&theme=cobalt" />
   <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=serkan-can-eyvaz&theme=react&border_radius=10" />
 </div>
